@@ -1,2 +1,7 @@
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=-sd-&desc="Talk%20is%20cheap.%20Show%20me%20the%20code."&descAlignY=65)
 
-![WIP](https://images.unsplash.com/photo-1553451166-232112bda6f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3304&q=80)
+## Books
+
+- [Tidy Data 원칙을 활용한 Pandas 3.x (개정판)](https://sangkon.com/pandas-with-tidy/)
+
+---

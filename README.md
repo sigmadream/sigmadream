@@ -2,10 +2,10 @@
 
 ## Projects
 
-- [MelonTop100](https://pypi.org/project/melon_top100/)
-- [graph2emb](https://pypi.org/project/graph2emb/)
-- [pytides-py3](https://pypi.org/project/pytides-py3/)
-- [plagene: 프로그램 유사도 분석](https://sangkon.com/plagene/)
+- [MelonTop100: 멜론 Top 100을 파싱하는 Python 라이브러리](https://pypi.org/project/melon_top100/)
+- [graph2emb: 그래프 임베딩 학습을 위한 경량 Python 라이브러리](https://pypi.org/project/graph2emb/)
+- [pytides-py3: 조석 분석 및 예측을 위한 Python 라이브러리](https://pypi.org/project/pytides-py3/)
+- [plagene: 코드 유사도 분석을 위한 Rust 라이브러리](https://sangkon.com/plagene/)
 
 ## Books
 

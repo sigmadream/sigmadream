@@ -2,6 +2,9 @@
 
 ## Projects
 
+- [MelonTop100](https://pypi.org/project/melon_top100/)
+- [graph2emb](https://pypi.org/project/graph2emb/)
+- [pytides-py3](https://pypi.org/project/pytides-py3/)
 - [plagene: 프로그램 유사도 분석](https://sangkon.com/plagene/)
 
 ## Books

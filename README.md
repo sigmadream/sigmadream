@@ -10,5 +10,5 @@
 ## Books
 
 - [Tidy Data 원칙을 활용한 Pandas 3.x (개정판)](https://sangkon.com/pandas-with-tidy/)
-
+- [Airflow 3.x - 시작하기](https://sangkon.com/practice-airflow/)
 ---
